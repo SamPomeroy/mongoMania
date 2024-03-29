@@ -3,7 +3,7 @@
 1. Start up a new backend called 'mongo-mania'
 
 2. Install Mongoose:
-
+d
     ```
     npm i mongoose
     ```

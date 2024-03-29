@@ -1,0 +1,16 @@
+{
+  "name": "mongomania",
+  "version": "1.0.0",
+  "description": "1. Start up a new backend called 'mongo-mania'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3",
+    "morgan": "^1.10.0"
+  }
+}
